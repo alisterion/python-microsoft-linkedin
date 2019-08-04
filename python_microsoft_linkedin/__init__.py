@@ -1,1 +1,1 @@
-from .api import LinkedinAPI, ProfileAPI, ShareAPI
+from .api import LinkedinAPI, ProfileAPI, ShareAPI, OrganizationAPI
